@@ -127,7 +127,7 @@ window.addEventListener("DOMContentLoaded", () => {
     }
   });
 
-  // const modalTimerId = setTimeout(modalOpen, 5000);
+  const modalTimerId = setTimeout(modalOpen, 5000);
 
   function showModalByScroll() {
     if (
